@@ -1,0 +1,1 @@
+This project is just an experiment. It was made entirely with a little knowledge of Python and a little Artificial Intelligence. Please do not criticize.
